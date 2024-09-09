@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import  { Component } from 'react';
 import { FaEdit, FaTrash } from 'react-icons/fa'; // Import the icons
 
 class TodoList extends Component {
