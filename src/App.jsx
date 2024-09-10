@@ -1,7 +1,5 @@
-
 import LandingPage from "./components/LandingPage";
-import TodoList from "./components/TodoList"; // Your existing TodoList component
-import React from 'react';
+import TodoList from "./components/TodoList";
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 const App = () => {
